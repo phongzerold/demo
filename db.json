@@ -1,14 +1,14 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   {
+    "data" : [
+        {"id": 1, "name": "Phương pháp lập trình"},
+        {"id": 2, "name": "Cấu trúc dữ liệu và giải thuật 1"},
+        {"id": 3, "name": "Công nghệ phần mềm"},
+        {"id": 4, "name": "Nhập môn hệ điều hành"},
+        {"id": 5, "name": "Hệ cơ sở dữ liệu"},
+        {"id": 6, "name": "Tổ chức máy tính"},
+        {"id": 7, "name": "Lập trình web và ứng dụng"},
+        {"id": 8, "name": "Phát triển ứng dụng di động"}
+    ]
 }
